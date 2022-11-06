@@ -11,9 +11,7 @@
 ## Education:
 
 #### 1. [Universitas Pelita Bangsa](https://www.pelitabangsa.ac.id) | Bachelor of Informatics Engineering | Cikarang `2018-2022`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
+ 
  #### 2. [SMA N 1 Muaragembong](#) | IPS | Bekasi `2014-2017`
    - Member of Paskibra
 
@@ -24,6 +22,10 @@
 #### 2. [PT. Indonesia Epson Industry](#) | Operator Produksi | Cikarang`2020-2022`
 - Responsible for improving and realizing quality products.
 ---
+## Projects
+- Sistem penjualan berbasis desktop with java swing
+- Monitoring hama burung dengan esp01 
+- etc
 
 ### Languages and Tools:
 
