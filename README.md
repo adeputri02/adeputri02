@@ -24,7 +24,8 @@
 ---
 ## Projects
 - Sistem penjualan berbasis desktop with java swing
-- Monitoring hama burung dengan esp01 
+- Sistem informasi perpustakaan berbasis desktop
+- Monitoring hama burung dengan esp01 dan arduino uno
 - etc
 
 ### Languages and Tools:
