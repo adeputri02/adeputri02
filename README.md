@@ -1,4 +1,4 @@
-# Hi there, I'm Ade putri - aka [adeputri](https://www.youtube.com/@aboutech) 👋
+# Hi there, I'm Ade putri - aka [Uty](https://www.youtube.com/@aboutech) 👋
 ## About me:
 - 🔭 I’m currently jobseeker
 - 🌱 I’m currently learning asp.net  and c#
