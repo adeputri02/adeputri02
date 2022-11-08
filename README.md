@@ -7,10 +7,12 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: adeputri820@gmail.com
 - 🌱 i understand the concept of oop
+-  [Transkip Nilai](https://drive.google.com/file/d/1P_pEvagsVbDmToCA5g6DxTPuyGnLXsXt/view?usp=sharing)
 
 ## Education:
 
 #### 1. [Universitas Pelita Bangsa](https://www.pelitabangsa.ac.id) | Bachelor of Informatics Engineering | Cikarang `2018-2022`
+ 
  
  #### 2. [SMA N 1 Muaragembong](#) | IPS | Bekasi `2014-2017`
    - Member of Paskibra
