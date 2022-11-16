@@ -1,7 +1,7 @@
 # Hi there, I'm Ade putri - aka [Uty](https://www.youtube.com/@aboutech) 👋
 ## About me:
 - 🔭 I’m currently jobseeker
-- 🌱 I’m currently learning asp.net  and c#
+- 🌱 I’m understand basicly pemograman php, asp.net c#, java swing, c etc
 - 👯 I’m looking to collaborate as System Analyst and junior developer
 - 🤔 I’m looking for suggest for System Analyst
 - 💬 Ask me about anything
