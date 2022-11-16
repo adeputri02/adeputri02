@@ -1,13 +1,13 @@
 # Hi there, I'm Ade putri - aka [Uty](https://www.youtube.com/@aboutech) 👋
 ## About me:
 - 🔭 I’m currently jobseeker
-- 🌱 I’m understand basicly pemograman php, asp.net c#, java swing, c etc
+- 🌱 I’m understand basicly pemograman php, asp.net c#, java swing, c etc and database mysql, sql server and oracle.
 - 👯 I’m looking to collaborate as System Analyst and junior developer
-- 🤔 I’m looking for suggest for System Analyst
+- 🤔 I’m looking for suggest for System Analyst & Programmer
 - 💬 Ask me about anything
 - 📫 How to reach me: adeputri820@gmail.com
-- 🌱 i understand the concept of oop
--  [Transkip Nilai](https://drive.google.com/file/d/1P_pEvagsVbDmToCA5g6DxTPuyGnLXsXt/view?usp=sharing)
+- 🌱 i understand the concept of oop, cms, kali linux.
+-  [Transkip Nilai](https://drive.google.com/file/d/1B69tEBfTah0Cb1ZjSnOtl0Yz-lm7GSeD/view?usp=share_link)
 
 ## Education:
 
