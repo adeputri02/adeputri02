@@ -15,7 +15,6 @@
  
  
  #### 2. [SMA N 1 Muaragembong](#) | IPS | Bekasi `2014-2017`
-   - Member of Paskibra
 
 ## Work Experience:
 #### 1. [PT. Indosox mills](#) | Operator Produksi | Jakarta `Mar'2018 - 2019`
@@ -37,8 +36,6 @@
 [<img align="left" alt=".Net" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="sqlserver" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-
-
 <br />
 <br />
 
