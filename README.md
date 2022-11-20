@@ -22,6 +22,8 @@
   
 #### 2. [PT. Indonesia Epson Industry](#) | Operator Produksi | Cikarang`2020-2022`
 - Responsible for improving and realizing quality products.
+
+#### 3. Magang selama 3 bulan di Apotek untuk memenuhin syarat KKP
 ---
 ## Projects
 - Sistem penjualan berbasis desktop with java swing
