@@ -1,4 +1,4 @@
-# Hi there, I'm Ade putri - aka [Uty](https://www.youtube.com/@aboutech) 👋
+# Hi there, I'm Ade putri - aka [Ade](https://www.youtube.com/@aboutech) 👋
 ## About me:
 - 🔭 I’m currently jobseeker
 - 🌱 I’m understand basicly pemograman php, asp.net c#, java swing, c etc and database mysql, sql server and oracle.
