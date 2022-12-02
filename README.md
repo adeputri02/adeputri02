@@ -1,16 +1,15 @@
 # Hi there, I'm Ade putri - aka [Ade](https://www.youtube.com/@aboutech) 👋
 ## About me:
 - 🔭 I’m currently jobseeker
-- 🌱 I’m understand basicly pemograman php, asp.net c#, java swing, c etc and database mysql, sql server and oracle.
+- 🌱 I’m understand basicly pemograman php, asp.net c#, java swing, c etc and database mysql, sql server.
 - 👯 I’m looking to collaborate as System Analyst and junior developer
-- 🤔 I’m looking for suggest for System Analyst & Programmer
 - 💬 Ask me about anything
 - 📫 How to reach me: adeputri820@gmail.com
 - 🌱 i understand the concept of oop, cms, kali linux.
 -  [Transkip Nilai](https://drive.google.com/file/d/1B69tEBfTah0Cb1ZjSnOtl0Yz-lm7GSeD/view?usp=share_link)
 -  [Sertifikat vaksin](https://drive.google.com/drive/folders/1SxyqZl-eCYD4uC3kJSfiUu_nNSJeNQwz?usp=share_link)
 -  [ktp](https://drive.google.com/file/d/1tx6xZqmbGMnPbgfHXLm9822O09mXZLOU/view?usp=share_link)
--  [Sertifikat Course Online]()
+-  [Sertifikat Course Online](https://drive.google.com/drive/folders/15YUMCv6TYvdk5T3U4BjkxkYl2VW0hz9g?usp=share_link)
 
 ## Education:
 
@@ -20,13 +19,8 @@
  #### 2. [SMA N 1 Muaragembong](#) | IPS | Bekasi `2014-2017`
 
 ## Work Experience:
-#### 1. [PT. Indosox mills](#) | Operator Produksi | Jakarta `Mar'2018 - 2019`
-   - Responsible for improving and realizing quality products.
-  
-#### 2. [PT. Indonesia Epson Industry](#) | Operator Produksi | Cikarang`2020-2022`
-- Responsible for improving and realizing quality products.
 
-#### 3. Magang selama 3 bulan di Apotek untuk memenuhin syarat KKP
+#### 1. Magang selama 3 bulan di Apotek untuk memenuhin syarat KKP
 ---
 ## Projects
 - Sistem penjualan berbasis desktop with java swing
