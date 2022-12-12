@@ -20,7 +20,6 @@
 
 ## Work Experience:
 
-#### 1. Magang selama 3 bulan di Apotek untuk memenuhin syarat KKP
 ---
 ## Projects
 - Sistem penjualan berbasis desktop with java swing
