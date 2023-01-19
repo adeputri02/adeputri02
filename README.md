@@ -2,7 +2,7 @@
 ## About me:
 - 🔭 I’m currently jobseeker
 - 🌱 I’m understand basicly pemograman php, asp.net c#, java swing, c etc and database mysql, sql server.
-- 👯 I’m looking to collaborate as System Analyst and junior developer
+- 👯 I’m looking to collaborate as junior developer
 - 💬 Ask me about anything
 - 📫 How to reach me: adeputri820@gmail.com
 - 🌱 i understand the concept of oop, cms, kali linux.
