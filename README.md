@@ -1,8 +1,7 @@
 # Hi there, I'm Ade putri - aka [Ade](https://www.youtube.com/@aboutech) 👋
 ## About me:
 - 🔭 I’m currently jobseeker
-- 🌱 I’m understand basicly pemograman php, asp.net c#, java swing, c etc and database mysql, sql server.
-- 👯 I’m looking to collaborate as junior developer
+- 🌱 I’m understand basicly pemograman php, asp.net c#, java GUI and database mysql, sql server.
 - 💬 Ask me about anything
 - 📫 How to reach me: adeputri820@gmail.com
 - 🌱 i understand the concept of oop, cms, kali linux.
@@ -22,9 +21,9 @@
 
 ---
 ## Projects
-- Sistem penjualan berbasis desktop with java swing
-- Sistem informasi perpustakaan berbasis desktop
-- Monitoring hama burung dengan esp01 dan arduino uno
+- Sistem informasi kasir pada apotek berbasis desktop
+- Sistem informasi kasir pada laundry berbasis desktop
+- Sistem Monitoring hama burung dengan esp01 dan arduino uno
 - etc
 
 ### Languages and Tools:
