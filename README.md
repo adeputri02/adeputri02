@@ -24,7 +24,7 @@
 - Sistem informasi kasir pada apotek berbasis desktop
 - Sistem informasi kasir pada laundry berbasis desktop
 - Sistem Monitoring hama burung dengan esp01 dan arduino uno
-- etc
+- Sistem Informasi Perpustakaan berbasis desktop
 
 ### Languages and Tools:
 
