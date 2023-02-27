@@ -36,7 +36,6 @@
 - Katalon
 - Microsoft Office
 <br />
----
 ### Connect with me:
 
 [![website](./img/youtube-light.svg)](#gh-light-mode-only)
