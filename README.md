@@ -21,19 +21,20 @@
 
 ---
 ## Projects
-- Sistem informasi kasir pada apotek berbasis desktop
-- Sistem informasi kasir pada laundry berbasis desktop
-- Sistem Monitoring hama burung dengan esp01 dan arduino uno
-- Sistem Informasi Perpustakaan berbasis desktop
+- Sistem informasi kasir pada apotek berbasis desktop dengan java netbeans
+- Sistem informasi kasir pada laundry berbasis desktop dengan java netbeans
+- Sistem Monitoring hama burung dengan esp01 dan arduino uno berbasis web dengan php
+- Sistem Informasi Perpustakaan berbasis desktop dengan java netbeans
 
-### Languages and Tools:
+### Tools:
 
-[<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Vscode" width="30px" src="[https://webme.ie/wp-content/uploads/2019/09/vscode.png]" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="php" width="30px" src="https://www.php.net//images/logos/new-php-logo.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt=".Net" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_.NET_logo.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="sqlserver" width="30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
+- Visual Studio Code
+- Netbeans IDE
+- Xampp
+- Visual Studio
+- Microsoft Sql Server Management
+- Katalon
+- Microsoft Office
 <br />
 <br />
 
