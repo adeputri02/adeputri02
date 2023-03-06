@@ -37,6 +37,7 @@
 - Microsoft Sql Server Management
 - Katalon
 - Microsoft Office
+- [Figma](https://drive.google.com/drive/folders/1MZs7_poCTpqu1ijQwDEHNoJG8mC-T3Nt?usp=share_link)
 <br />
 ### Connect with me:
 
