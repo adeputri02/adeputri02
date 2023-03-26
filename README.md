@@ -23,7 +23,7 @@
 
 ---
 ## Projects
-- Sistem informasi kasir pada apotek berbasis desktop dengan java netbeans
+- Sistem informasi request part berbasis desktop dengan vb.net
 - Sistem informasi kasir pada laundry berbasis desktop dengan java netbeans
 - Sistem Monitoring hama burung dengan esp01 dan arduino uno berbasis web dengan php
 - Sistem Informasi Perpustakaan berbasis desktop dengan java netbeans
