@@ -18,10 +18,7 @@
  
  
  #### 2. [SMA N 1 Muaragembong](#) | IPS | Bekasi `2014-2017`
-
-## Work Experience:
-
----
+ 
 ## Projects
 - Sistem informasi request part berbasis desktop dengan vb.net
 - Sistem informasi kasir pada laundry berbasis desktop dengan java netbeans
