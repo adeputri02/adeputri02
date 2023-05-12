@@ -23,6 +23,8 @@
 - Sistem informasi request part berbasis desktop dengan vb.net
 - Sistem informasi kasir pada laundry berbasis desktop dengan java netbeans
 - Sistem Monitoring hama burung dengan esp01 dan arduino uno berbasis web dengan php
+- Sistem informasi penilaian siswa berbasis web dengan php dan mysql
+- Sistem informasi gudang berbasis web dengan php dan mysql
 - Sistem Informasi Perpustakaan berbasis desktop dengan java netbeans
 
 ### Tools:
