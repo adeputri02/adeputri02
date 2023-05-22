@@ -4,7 +4,7 @@
 - 🌱 I’m understand basicly pemograman php, asp.net c#, java GUI and database mysql, sql server.
 - 💬 Ask me about anything
 - 📫 How to reach me: adeputri820@gmail.com
-- 🌱 i understand the concept of oop, cms, kali linux.
+- 🌱 i understand the concept of oop, cms.
 - Driver License (C)
 -  [Transkip Nilai](https://drive.google.com/file/d/169GLDe2lgU7uNHLlDpSf1xh3b2HoL0Pe/view?usp=share_link)
 -  [SKL](https://drive.google.com/file/d/169uDGV_h5jl83WKjcG6keqhYC-cPSZBE/view?usp=share_link)
