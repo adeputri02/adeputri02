@@ -20,12 +20,16 @@
  #### 2. [SMA N 1 Muaragembong](#) | IPS | Bekasi `2014-2017`
  
 ## Projects
-- Sistem informasi request part berbasis desktop dengan vb.net
-- Sistem informasi kasir pada laundry berbasis desktop dengan java netbeans
-- Sistem Monitoring hama burung dengan esp01 dan arduino uno berbasis web dengan php
-- Sistem informasi penilaian siswa berbasis web dengan php dan mysql
-- Sistem informasi gudang berbasis web dengan php dan mysql
-- Sistem Informasi Perpustakaan berbasis desktop dengan java netbeans
+- Sistem informasi request part berbasis desktop dengan vb.net(2022) 
+- Sistem informasi kasir pada laundry berbasis desktop dengan java netbeans(2022) 
+- Sistem Monitoring hama burung dengan esp01 dan arduino uno berbasis web dengan php(2022) 
+- Sistem informasi penilaian siswa berbasis web dengan php dan mysql(2022) 
+- Sistem informasi gudang berbasis web dengan php dan mysql(2022) 
+- Sistem Informasi Perpustakaan berbasis desktop dengan java netbeans(2021)
+- Sistem inventory web(2023)
+- Company Profile(2024)
+- Monitoring machine(2024)
+  
 
 ### Tools:
 
@@ -34,7 +38,9 @@
 - Xampp
 - Visual Studio
 - Microsoft Sql Server Management
-- Katalon
+- Dbeaver
+- Postman
+- Postgre
 - Microsoft Office
 - [Figma](https://drive.google.com/drive/folders/1MZs7_poCTpqu1ijQwDEHNoJG8mC-T3Nt?usp=share_link)
 <br />
