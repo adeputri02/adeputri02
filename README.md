@@ -1,7 +1,7 @@
 # Hi there, I'm Ade putri - aka [putri](https://www.youtube.com/@aboutech) 👋
 ## About me:
-- 🔭 I’m currently jobseeker
-- 🌱 I’m understand basicly pemograman php, asp.net c#, java GUI and database mysql, sql server.
+- 🔭 I’m currently junior backend developer
+- 🌱 I’m understand basicly pemograman php, asp.net c#, java GUI and database mysql, sql server, postgresql.
 - 💬 Ask me about anything
 - 📫 How to reach me: adeputri820@gmail.com
 - 🌱 i understand the concept of oop, cms.
@@ -40,7 +40,7 @@
 - Microsoft Sql Server Management
 - Dbeaver
 - Postman
-- Postgre
+- Postgres
 - Microsoft Office
 - [Figma](https://drive.google.com/drive/folders/1MZs7_poCTpqu1ijQwDEHNoJG8mC-T3Nt?usp=share_link)
 <br />
