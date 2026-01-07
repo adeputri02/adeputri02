@@ -1,15 +1,12 @@
 # Hi there, I'm Ade putri - aka [putri](https://www.youtube.com/@aboutech) 👋
 ## About me:
 - 🔭 I’m currently junior backend developer
-- 🌱 I’m understand basicly pemograman php, asp.net c#, java GUI and database mysql, sql server, postgresql.
+- 🌱 my skill in asp.net c#, react js, react native, database mysql, sql server, postgresql.
 - 💬 Ask me about anything
 - 📫 How to reach me: adeputri820@gmail.com
 - 🌱 i understand the concept of oop, cms.
 - Driver License (C)
 -  [Transkip Nilai](https://drive.google.com/file/d/169GLDe2lgU7uNHLlDpSf1xh3b2HoL0Pe/view?usp=share_link)
--  [SKL](https://drive.google.com/file/d/169uDGV_h5jl83WKjcG6keqhYC-cPSZBE/view?usp=share_link)
--  [Sertifikat vaksin](https://drive.google.com/drive/folders/1SxyqZl-eCYD4uC3kJSfiUu_nNSJeNQwz?usp=share_link)
--  [ktp](https://drive.google.com/file/d/1tx6xZqmbGMnPbgfHXLm9822O09mXZLOU/view?usp=share_link)
 -  [Sertifikat Course Online](https://drive.google.com/drive/folders/15YUMCv6TYvdk5T3U4BjkxkYl2VW0hz9g?usp=share_link)
 
 ## Education:
@@ -20,15 +17,11 @@
  #### 2. [SMA N 1 Muaragembong](#) | IPS | Bekasi `2014-2017`
  
 ## Projects
-- Sistem informasi request part berbasis desktop dengan vb.net(2022) 
-- Sistem informasi kasir pada laundry berbasis desktop dengan java netbeans(2022) 
-- Sistem Monitoring hama burung dengan esp01 dan arduino uno berbasis web dengan php(2022) 
-- Sistem informasi penilaian siswa berbasis web dengan php dan mysql(2022) 
-- Sistem informasi gudang berbasis web dengan php dan mysql(2022) 
-- Sistem Informasi Perpustakaan berbasis desktop dengan java netbeans(2021)
-- Sistem inventory web(2023)
-- Company Profile(2024)
-- Monitoring machine(2024)
+- Dashboard Monitoring Machine
+- Sistem Inventory Web
+- POS
+- Company Profile
+- Scan Tiket Family Gathering Mobile Apps
   
 
 ### Tools:
@@ -36,7 +29,7 @@
 - Visual Studio Code
 - Netbeans IDE
 - Xampp
-- Visual Studio
+- Microsoft Visual Studio
 - Microsoft Sql Server Management
 - Dbeaver
 - Postman
