@@ -1,6 +1,6 @@
 # Hi there, I'm Ade putri - aka Ade 👋
 ## About me:
-- 🔭 I’m currently junior backend developer
+- 🔭 I’m currently programmer
 - 🌱 my skill in asp.net c#, react js, react native, database mysql, sql server, postgresql.
 - 💬 Ask me about anything
 - 📫 How to reach me: adeputri820@gmail.com
